@@ -1,0 +1,32 @@
+reglas UNO:
+
+1)se colocan las cartas boca abajo, cada jugador toma una carta, el que saque la carta con mayor valor es el repartidor.
+los comodines y als cartas de accion cuentan como 0.
+
+2)el repartidor baraja y reparte 7 cartas a cada jugador y coloca luego el resto de mazo en el centro de la mesa boca abajo.
+
+3)se coloca la primera carta del mazo boja arriba al lado de este.
+
+4)se comienzan los turnes hacia la izquierda del raprtidos, comenzando este el juego.
+
+5)en cada turno el jugador debe colocar una carta encima de la ya mostrada, esta deve ser de el mismo color, numero, carta de accion o un comodin.
+
+6)si un jugador no tiene ninguna carta para poner este roba una carta, en caso de poder colocarla la hace, de lo contrario pasa su turno.
+
+7)si un comodin es jugado, el jugador podra eleguir el color a seguir.
+
+8)si un comodin +4 es jugado, el jugador escoje el siguiente color y el siguiente jugador roba 4 cartas.
+
+9)al jugar una carta de pierda turno, el siguiente jugador perdera el turno.
+
+10)al jugar una carta de cambia dirreccion, se cambiara la dirreccion de los turnos.
+
+11)al tener una solo una carta, el jugador deve decir "UNO", de los contrario este deve robar 2 cartas.
+
+12)el juego se acaba cuando un jugador se queda sin cartas, luego se contara el puntaje de las cartas que quedan en las manos.
+
+13)cada carta de numero cuaenta como ese numero de puntos.
+   cada carta de accion vale 20 puntos
+   cada carta de comodin vale 50 puntos
+
+14)se repiten rondas hasta que un jugador tenga 500 puntos
